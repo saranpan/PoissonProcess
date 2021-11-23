@@ -6,7 +6,7 @@
   <h3 align="center">Poisson Process</h3>
 
   <p align="center">
-    Short description
+    The guilded Jupyter notebook helps bring you an automate sense to create the poisson process
     <br>
     <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
     ·
