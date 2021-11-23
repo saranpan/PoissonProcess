@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://example.com/">
-    <img src="http://24.media.tumblr.com/2a36ba2a3016572f698ec19ad0051a39/tumblr_mrg3g8Nkbx1swdfc0o1_500.gif" alt="Logo" width=72 height=72>
+    <img src="http://24.media.tumblr.com/2a36ba2a3016572f698ec19ad0051a39/tumblr_mrg3g8Nkbx1swdfc0o1_500.gif" alt="Logo" width=250 height=252>
   </a>
 
   <h3 align="center">Logo</h3>
