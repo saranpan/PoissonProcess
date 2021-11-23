@@ -10,9 +10,9 @@
     <br>
     This jupyter notebook is based on the following two lecture videos by MIT
     <br>
-    <a href="https://www.youtube.com/watch?v=jsqSScywvMc">Poisson Process Part 1</a>
+    <a href="https://www.youtube.com/watch?v=jsqSScywvMc">Lecture Part 1</a>
     ·
-    <a href="https://www.youtube.com/watch?v=XsYXACeIklU">Poisson Process Part 2</a>
+    <a href="https://www.youtube.com/watch?v=XsYXACeIklU">Lecture Part 2</a>
   </p>
 </p>
 
