@@ -6,7 +6,9 @@
   <h3 align="center">Poisson Process</h3>
 
   <p align="center">
-    The guided Jupyter notebook helps to bring you an automation sense of creating the poisson process
+    The guided Jupyter notebook helps to bring you an automation sense of creating the poisson process. 
+    <br>
+    This jupyter notebook is based on the following two lecture videos by MIT
     <br>
     <a href="https://www.youtube.com/watch?v=jsqSScywvMc">Poisson Process Part 1</a>
     ·
