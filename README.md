@@ -8,9 +8,9 @@
   <p align="center">
     The guided Jupyter notebook helps bring you an automation sense of creating the poisson process
     <br>
-    <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
+    <a href="https://www.youtube.com/watch?v=jsqSScywvMc">Poisson Process Part 1</a>
     ·
-    <a href="https://reponame/issues/new?template=feature.md&labels=feature">Request feature</a>
+    <a href="https://www.youtube.com/watch?v=XsYXACeIklU">Poisson Process Part 2</a>
   </p>
 </p>
 
