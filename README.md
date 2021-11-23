@@ -3,7 +3,7 @@
     <img src="http://24.media.tumblr.com/2a36ba2a3016572f698ec19ad0051a39/tumblr_mrg3g8Nkbx1swdfc0o1_500.gif" alt="Logo" width=300 height=300>
   </a>
 
-  <h3 align="center">Logo</h3>
+  <h3 align="center">Poisson Process</h3>
 
   <p align="center">
     Short description
