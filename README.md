@@ -72,4 +72,4 @@ The issue of Discrete markov chain is its arbitraty time make it unable to captu
 Hence, Poisson process came here helping to solve this problem by is using an extremely small interval called **δ**. (Arbitrary **t** problem is solved!), and then it's how the Markov process occurs !!
 
 
-Check the notebook for dive deeper on how I automate the poisson process using just Python
+<h2>Check the notebook for dive deeper on how I automate the poisson process using just Python</h2>
