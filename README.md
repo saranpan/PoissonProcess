@@ -43,10 +43,11 @@ Thus, when you want the number of count within the any given time period (**t**)
 Soooo, what do you need to make a poisson process, 
 
 
-<font size="15"> - **λ** : The arrival rate (per time unit τ)</font>
+ 1. **λ** : The arrival rate (per time unit τ)
+ 
 The higher λ, the high chance that within an extremely interval will have  1 occurence is higher
 
-<font size="15"> **δ** : An extremely small interval </font>
+2. **δ** : An extremely small interval
 
 Huh ? you may say why do we need it when we already know its value closes to zero.
 <br>In Programming Language, It can cause underflow. so we have to fix the most possible smallest value that you can set
