@@ -43,7 +43,7 @@ Thus, when you want the number of count within the any given time period (**t**)
 Soooo, what do you need to make a poisson process, 
 
 
- 1. **λ : The arrival rate (per time unit τ)**
+ <h3> 1. **λ : The arrival rate (per time unit τ)** </h3>
  
 - The higher λ, the high chance that within an extremely interval will have  1 occurence is higher
 
