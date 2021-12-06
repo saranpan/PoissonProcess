@@ -47,7 +47,7 @@ Soooo, what do you need to make a poisson process,
  
 - The higher λ, the high chance that within an extremely interval will have  1 occurence is higher
 
-<h3> 2. **δ : An extremely small interval**</h3> 
+<h3> 2. δ : An extremely small interval</h3> 
 
 - Huh ? you may ask why do we need it when we already know its value closes to zero.
 <br>In Programming Language, It can cause underflow. so we have to fix the most possible smallest value that you can set
