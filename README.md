@@ -31,6 +31,10 @@
 
 ## Quick start
 
+---
+<font size="15"> **λ** : The arrival rate (per unit)</font>
+The higher λ, the high chance that within an extremely interval will have  1 occurence is higher
+---
 Some text
 
 - Instruction 1
