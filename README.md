@@ -21,7 +21,7 @@
 
 - [Quick start](#quick-start)
 - [Ingredients](#ingredients)
-- [Fundamental of what](#Fundamental)
+- [Fundamental of what](#Fundamental of what)
 
 ## Quick start
 
