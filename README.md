@@ -28,6 +28,7 @@
 Poisson process is used to explain many events in a real life that involved in the count number (integer) 
 
 Eg. The number of car that run though your village today
+
 ![](https://raw.githubusercontent.com/axelpale/poisson-process/HEAD/doc/cars.gif?raw=true)
 
 What set the poisson process so special is it can be used to throughly observe the number of count within an extremely small interval (**δ**). 
