@@ -53,10 +53,10 @@ Soooo, what do you need to make a poisson process,
 <br>In Programming Language, It can cause underflow. so we have to fix the most possible smallest value that you can set
 
 
-- With the given *λ*, you can obtain the insights from the poisson process with any *t* you want
+With the given *λ*, you can obtain the insights from the poisson process with any *t* you want
 
-1. The **Probability that have k occurences at t**
-2. The **Interarrival time** (High λ, should have low Interarrival time)
+- The **Probability that have k occurences at t**
+- The **Interarrival time** (High λ, should have low Interarrival time)
 
 
 ---
