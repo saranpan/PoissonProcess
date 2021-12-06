@@ -20,70 +20,52 @@
 ## Table of contents
 
 - [Quick start](#quick-start)
-- [Status](#status)
-- [What's included](#whats-included)
-- [Bugs and feature requests](#bugs-and-feature-requests)
-- [Contributing](#contributing)
-- [Creators](#creators)
-- [Thanks](#thanks)
-- [Copyright and license](#copyright-and-license)
-
+- [Ingredients](#ingredients)
+- [Fundamental of what](#Fundamental)
 
 ## Quick start
 
+Poisson process is used to explain many events in a real life that involved in the count number (integer) 
+
+Eg. The number of car that run though your village today
+![](https://raw.githubusercontent.com/axelpale/poisson-process/HEAD/doc/cars.gif?raw=true)
+
+What set the poisson process so special is it can be used to throughly observe the number of count within an extremely small interval (**δ**). 
+
+Note that the Poisson process assume the only possible number of count within that extremely small interval is 0 or 1 (which makes sense for most of the cases). 
+
+Thus, when you want the number of count within the any given time period (**t**). is just the summation of all counts of many δ 
+
 ---
-<font size="15"> **λ** : The arrival rate (per unit)</font>
+## Ingredients
+
+Soooo, what do you need to make a poisson process, 
+
+---
+<font size="15"> - **λ** : The arrival rate (per time unit τ)</font>
 The higher λ, the high chance that within an extremely interval will have  1 occurence is higher
 ---
-Some text
+<font size="15"> **δ** : An extremely small interval </font>
 
-- Instruction 1
-- Instruction 2
-- Instruction 3
+Huh ? you may say why do we need it when we already know its value closes to zero.
+<br>In Programming Language, It can cause underflow. so we have to fix the most possible smallest value that you can set
+---
 
-## Status
+With the given *λ*, you can obtain the insights from the poisson process with any *t* you want
 
-Here goes all the budgets
+1. The **Probability that have k occurences at t**
+2. The **Interarrival time** (High λ, should have low Interarrival time)
 
-## What's included
+---
 
-Some text
 
-```text
-folder1/
-└── folder2/
-    ├── folder3/
-    │   ├── file1
-    │   └── file2
-    └── folder4/
-        ├── file3
-        └── file4
-```
+## Fundamental of what
 
-## Bugs and feature requests
+One of the notable stuffs that need Poisson process as the fundamental is called **Markov process**
 
-Have a bug or a feature request? Please first read the [issue guidelines](https://reponame/blob/master/CONTRIBUTING.md) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://reponame/issues/new).
+Another name for Markov process is called **Continuous Markov chain**.
 
-## Contributing
+The issue of Discrete markov chain is its arbitraty time make it unable to capture true transition rate, 
 
-Please read through our [contributing guidelines](https://reponame/blob/master/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
+Hence, Poisson process came here helping to solve this problem by is using an extremely small interval called **δ**. (Arbitrary **t** problem is solved!), and then it's how the Markov process occurs !!
 
-Moreover, all HTML and CSS should conform to the [Code Guide](https://github.com/mdo/code-guide), maintained by [Main author](https://github.com/usernamemainauthor).
-
-Editor preferences are available in the [editor config](https://reponame/blob/master/.editorconfig) for easy use in common text editors. Read more and download plugins at <https://editorconfig.org/>.
-
-## Creators
-
-**Creator 1**
-
-- <https://github.com/usernamecreator1>
-
-## Thanks
-
-Some Text
-
-## Copyright and license
-
-Code and documentation copyright 2011-2018 the authors. Code released under the [MIT License](https://reponame/blob/master/LICENSE).
-
-Enjoy :metal:
